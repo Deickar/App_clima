@@ -25,7 +25,7 @@ const Registro = () => {
 
     const exito = registrarUsuario({ email, dpi, password });
     if (exito) {
-      navigate('/login');
+      navigate('/home');
     } else {
       setError('El correo electrónico ya está registrado.');
     }
@@ -79,7 +79,7 @@ const Registro = () => {
           </form>
           <p className="text-sm text-center text-slate-300 md:text-gray-600">
             ¿Ya tienes una cuenta?{' '}
-            <Link to="/login" className="font-medium text-indigo-400 hover:text-indigo-300 md:text-indigo-600 md:hover:text-indigo-500">
+            <Link to="/" className="font-medium text-indigo-400 hover:text-indigo-300 md:text-indigo-600 md:hover:text-indigo-500">
               Inicia sesión
             </Link>
           </p>
