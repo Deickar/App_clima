@@ -1,3 +1,34 @@
+src/components/Registro.jsx
+La vista para el proceso de registro!
+
+src/components/Login.jsx
+La vista para el proceso de inicio de sesión!
+
+src/components/Mapa.jsx
+La vista para el proceso de muestra del mapa en el lado izquierdo del formulario!
+
+src/components/Weather.jsx
+Se define el espacio para windy tanto en ancho y lardo.
+
+src/App.jsx
+Se agregaron los compones y rutas a este archivo master.
+
+src/auth.js
+Archivo donde se declara el proceso de almacenamiento de información al momento de hacer uso del formulario de registro! 
+
+TECNOLOGIA USADAS: 
+Framework: React + Vite
+
+INSTALACIÓN:
+Clonar repositorio: 
+
+npm install
+npm rud dev
+
+FUNCION DE LAS APPI: 
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
