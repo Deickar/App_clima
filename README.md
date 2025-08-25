@@ -20,12 +20,13 @@ TECNOLOGIA USADAS:
 Framework: React + Vite
 
 INSTALACIÓN:
-Clonar repositorio: 
+Clonar repositorio: https://github.com/Deickar/App_clima.git
 
 npm install
 npm rud dev
 
 FUNCION DE LAS APPI: 
+Windy funciona como una plataforma que utiliza modelos de predicción meteorológica y datos satelitales para proporcionar pronósticos detallados del clima a través de mapas interactivos.
 
 
 
